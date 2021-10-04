@@ -1,3 +1,4 @@
 %{
-  "elixlsx": {:hex, :elixlsx, "0.5.1", "3b4129c7059c7bd2ed4e2ff5f6c485410ab125058bee2e9de6e0eb8417176803", [:mix], [], "hexpm", "25d778d43ea1ae86df8dd20170842d324086c0cab40503eb484a3779a6e2254c"},
+  "decimal": {:hex, :decimal, "2.0.0", "a78296e617b0f5dd4c6caf57c714431347912ffb1d0842e998e9792b5642d697", [:mix], [], "hexpm", "34666e9c55dea81013e77d9d87370fe6cb6291d1ef32f46a1600230b1d44f577"},
+  "elixlsx": {:git, "https://github.com/leandrocp/elixlsx.git", "918b3f51569521b3a8767d4f1c07bfebc7420b57", [ref: "918b3f5"]},
 }
